@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Biography
+======
 
-A data-driven personal website
+I am a computational biologist who enjoys exploring cell signalling through data-driven mathematical modeling. Recently graduated from the joint Master’s programme in Molecular Techniques in Life Science, I am a PhD candidate in Evangelia Petsalaki's research group (Whole Cell Signalling) at the European Bioinformatics Institute and the University of Cambridge as part of the EMBL International PhD Programme.
+
+During my studies in Heidelberg and Stockholm, I specialized in systems biology by attending several classes dealing with programming languages, mathematical modeling/computational pathway simulations, and statistical methods, which provided me insight into data science and the complexity of dynamic processes in living cells. I am especially interested in understanding the dynamic interplay of systems components and how information is specifically processed and linked to cell-fate decisions despite presence of (biochemical) noise.
+
+Programming Languages & Frameworks:
+======
+
+Python | R | C++ | Julia | Matlab | Docker | Linux/Bash | Git | LaTeX | COPASI
+
+Skills:
+======
+
+Mathematical Mechanistic Modeling | Machine Learning | Genetic Algorithms | Network Analysis | Genome-Scale Metabolic Model | Data Analysis | Statistical Modeling and Algorithms | Sequence Analysis | Seeding Algorithms
+
+Languages:
+======
+German (C2), English (C2), Swedish (B2), French (A2), Spanish (A2)
+
+
+News
+======
+
+#### 2023 ####
+- 🗣️ April: Present "Entropy predicts sensitivity of pseudo-random seeds" at RECOMB
+
+#### 2022 ####
+- 🌱 October: [Preprint](https://www.biorxiv.org/content/10.1101/2022.10.13.512198) out showing that entropy predicts fuzzy-seed sensitivity
+- 🌱 October: [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010623) out in PLOS Computational Biology on stochastic dynamics of type-I interferon responses.
+- 🎓 June: Graduated with a joint M.Sc. in Molecular Techniques in Life Science from Karolinska Institute, KTH Royal Institute of Technology and Stockholm University, Sweden
+- ♦️ February: Admission to the EMBL International PhD programme (acceptance rate ~ 2%)
+
+#### 2021 ####
+
+- 🗣 September: Featured talk on the "quantitative interplay of chromatin organization and gene co-expression at the single-cell level" at EpiChrom
+- ♦️ March: Awarded with the SciLifeLab summer internship fellowship to "predict nuclear 3D organization from single-cell gene expression" in the Pelechano Lab (Karolinska Institute)
+
+#### 2020 and before ####
+
+- 🎓 June 2020: Graduated with a B.Sc. in Biological Science from Heidelberg University, Germany
+- ♦️ January 2020: Awarded with a graduate fellowship by the German Academic Scholarship Foundation
+- ♦️ January 2018: Awarded with a undergraduate fellowship by the German Academic Scholarship Foundation
+- ♦ June 2017: Karl-von-Frisch-Award for outstanding high school graduate achievements in the subject of biology.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+<!--A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
