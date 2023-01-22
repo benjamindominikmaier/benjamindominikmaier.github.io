@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,25 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-======
-
 I am a computational biologist who enjoys exploring cell signalling through data-driven mathematical modeling. Recently graduated from the joint Master’s programme in Molecular Techniques in Life Science, I am a PhD candidate in Evangelia Petsalaki's research group (Whole Cell Signalling) at the European Bioinformatics Institute and the University of Cambridge as part of the EMBL International PhD Programme.
 
 During my studies in Heidelberg and Stockholm, I specialized in systems biology by attending several classes dealing with programming languages, mathematical modeling/computational pathway simulations, and statistical methods, which provided me insight into data science and the complexity of dynamic processes in living cells. I am especially interested in understanding the dynamic interplay of systems components and how information is specifically processed and linked to cell-fate decisions despite presence of (biochemical) noise.
 
-Programming Languages & Frameworks:
-======
+#### Programming Languages & Frameworks ####
+Python, R, C++, Julia, Matlab, Docker, NextFlow, SnakeMake, Linux/Bash, Shell, Git, LaTeX, COPASI
 
-Python | R | C++ | Julia | Matlab | Docker | Linux/Bash | Git | LaTeX | COPASI
+#### Skills ####
+Mathematical Mechanistic Modeling, Machine Learning, Genetic Algorithms, Network Analysis, Genome-Scale Metabolic Model, Data Analysis, Statistical Modeling and Algorithms, Sequence Analysis, Seeding Algorithms
 
-Skills:
-======
-
-Mathematical Mechanistic Modeling | Machine Learning | Genetic Algorithms | Network Analysis | Genome-Scale Metabolic Model | Data Analysis | Statistical Modeling and Algorithms | Sequence Analysis | Seeding Algorithms
-
-Languages:
-======
+#### Languages ####
 German (C2), English (C2), Swedish (B2), French (A2), Spanish (A2)
 
 
@@ -94,3 +86,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
