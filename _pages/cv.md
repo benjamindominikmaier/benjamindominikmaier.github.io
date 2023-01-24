@@ -51,18 +51,20 @@ Work experience
 Volunteer Experience
 ======
 * since 2017: Scientific Tutor at Heidelberger Life Science Lab, German Cancer Research Cancer, Heidelberg, Germany
+  * 2017-2021: Organizer working group "Politics and Law"
+  * 2020-2021: Organizer working group "Ludology"
+  * 2021: Organizer of a two-day workshop on computational and mathematical analysis and modeling of biological systems (April 2021)
+  * since 2021: Organizer working group "Ludology Meets Informatics"
   * 2017-2021: Member of the selection committee
   * 2017-2022: Member of the advisory council of the alumni organisation
   * 2017-2018: Executive board member of the alumni organisation
-  * Sub-skill 2.3
 * 2021-2022: Spokesperson of the German Academic Scholarship Foundation for Stockholm & Uppsala
 * 2020-2022: Student Representative and Student Union Council Member at Medicinska Föreningen, Karolinska Institute
 
-Publications
+Publications (Selection)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>Maier</b> and Sahlin. Entropy predicts sensitivity of pseudo-random seeds. <em>BioRxiv</em>, 2022.
+* <b>Maier</b> & Aguilera et al. Stochastic dynamics of Type-I interferon responses. <em>PLOS Comp Bio</em>, 2022.
   
 Talks
 ======

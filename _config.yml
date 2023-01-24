@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Dominik Maier"
-  avatar           : "profile.png"
+  avatar           : "http://benjamindominikmaier.github.io/files/me.jpeg"
   bio              : "PhD student in the Petsalaki Lab (Whole Cell Signalling) at the European Bioinformatics Institute (EMBL-EBI)."
   location         : "Cambridge, United Kingdom"
   employer         :

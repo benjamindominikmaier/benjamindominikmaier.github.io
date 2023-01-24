@@ -1,8 +1,8 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "The quantitative interplay of chromatin organization and gene co-expression at single-cell level (EpiChrom 2021)"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+type: "Featured Talk"
+permalink: /talks/2021-EpiChrom
 venue: "EpiChrom 2021 - Swedish Epigenetics and Chromatin Meeting"
 date: 2021-09-02
 location: "Linköping, Sweden"
