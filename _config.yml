@@ -85,9 +85,9 @@ author:
   bio              : "PhD student in the Petsalaki Lab (Whole Cell Signalling) at the European Bioinformatics Institute (EMBL-EBI)."
   location         : "Cambridge, United Kingdom"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Benjamin+Dominik+Maier"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Benjamin+D+Maier"
   googlescholar    : "https://scholar.google.de/citations?hl=de&user=fhOFpjUAAAAJ"
-  email            :
+  email            : "bmaier [at] ebi.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Benjamin-Maier-17" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
