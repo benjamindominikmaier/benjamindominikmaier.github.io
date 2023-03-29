@@ -18,6 +18,12 @@ Education
 Work experience
 ======
 
+* Autumn 2022 - Autumn 2026: Doctoral Student
+  * European Bioinformatics Institute (EMBL-EBI), Hinxton, UK
+  * Generating context-specific data-driven rule-based executable models to identify functional units responsible for disease progression and phenotype induction
+  * Supervisor: Evangelia Petsalaki
+  * Thesis Advisory Committee: Evangelia Petsalaki, Maria Zimermann (EMBL), Maria Marti Solano (Cambridge University), Ursula Kummer (BioQuant,Heidelberg University) & Rahuman Sheriff (EMBL-EBI)
+
 * Summer 2022 - Autumn 2022: Research Assistant
   * Stockholm University / SciLifeLab, Stockholm, Sweden
   * Entropy predicts sensitivity of pseudo-random seeds
@@ -28,7 +34,7 @@ Work experience
   * Exploring Methods for Improved Strobemer Seeding
   * Supervisor: Kristoffer Sahlin
 
-* Fall 2021 - Winter 2021: Research Intern
+* Summer 2021 - Winter 2021: Research Intern
   * Karolinska Institute (MTC) / SciLifeLab, Stockholm, Sweden
   * Prediction of nuclear 3D organization from single-cell gene co-expression data
   * Supervisor: Marcel Tarbier & Vicente Pelechano
@@ -50,13 +56,15 @@ Work experience
   
 Volunteer Experience
 ======
+* 2023: Organizer of the 25. EMBL International PhD Symposium (Co-Head Finance Team)
+* since 2023: PreLighter, active contributor to the preLight program hosted by The Company of Biologists
 * since 2017: Scientific Tutor at Heidelberger Life Science Lab, German Cancer Research Cancer, Heidelberg, Germany
-  * 2017-2021: Organizer working group "Politics and Law"
-  * 2020-2021: Organizer working group "Ludology"
-  * 2021: Organizer of a two-day workshop on computational and mathematical analysis and modeling of biological systems (April 2021)
   * since 2021: Organizer working group "Ludology Meets Informatics"
-  * 2017-2021: Member of the selection committee
+  * 2021: Organizer of a two-day workshop on computational and mathematical analysis and modeling of biological systems (April 2021)
+  * 2020-2021: Organizer working group "Ludology"
+  * 2017-2021: Organizer working group "Politics and Law"
   * 2017-2022: Member of the advisory council of the alumni organisation
+  * 2017-2021: Member of the selection committee
   * 2017-2018: Executive board member of the alumni organisation
 * 2021-2022: Spokesperson of the German Academic Scholarship Foundation for Stockholm & Uppsala
 * 2020-2022: Student Representative and Student Union Council Member at Medicinska Föreningen, Karolinska Institute

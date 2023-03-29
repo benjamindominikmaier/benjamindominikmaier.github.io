@@ -16,15 +16,4 @@ author_profile: true
 
 <h2>All publications</h2>
 
-See a complete list on my <a href="https://scholar.google.de/citations?hl=de&user=fhOFpjUAAAAJ">Google Scholar profile</a>.
-
-
-# {% if author.googlescholar %}
-#   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-# {% endif %}
-# 
-# {% include base_path %}
-# 
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
+You can find a complete list of my articles on my <a href="https://scholar.google.de/citations?hl=de&user=fhOFpjUAAAAJ">Google Scholar profile</a>.
