@@ -35,9 +35,9 @@ News
 
 #### 2023 ####
 - 🗣️ April: Present "Entropy predicts sensitivity of pseudo-random seeds" at RECOMB
-- 🎓 March: Awarded a travel fellowship from PerMedCoE to attend the PerMedCoE summer school: from pathway modelling tools to cell-level simulations in Seva, Spain
-- 🎓 March: Awarded a travel fellowship from RECOMB to present my work at RECOMB in Istanbul, Turkey
-- 🎓 January: Awarded a travel fellowship from Churchill College, Cambrige University, UK to present my work at RECOMB in Istanbul, Turkey
+- ♦️ March: Awarded a travel fellowship from PerMedCoE to attend the PerMedCoE summer school: from pathway modelling tools to cell-level simulations in Seva, Spain
+- ♦️ March: Awarded a travel fellowship from RECOMB to present my work at RECOMB in Istanbul, Turkey
+- ♦️ January: Awarded a travel fellowship from Churchill College, Cambrige University, UK to present my work at RECOMB in Istanbul, Turkey
 
 #### 2022 ####
 - 🌱 October: [Preprint](https://www.biorxiv.org/content/10.1101/2022.10.13.512198) out showing that entropy predicts fuzzy-seed sensitivity
