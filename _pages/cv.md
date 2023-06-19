@@ -71,7 +71,7 @@ Volunteer Experience
 
 Publications (Selection)
 ======
-* <b>Maier</b> and Sahlin. Entropy predicts sensitivity of pseudo-random seeds. <em>BioRxiv</em>, 2022.
+* <b>Maier</b> and Sahlin. Entropy predicts sensitivity of pseudo-random seeds. <em>GenomeResearch</em>, 2023.
 * <b>Maier</b> & Aguilera et al. Stochastic dynamics of Type-I interferon responses. <em>PLOS Comp Bio</em>, 2022.
   
 Talks
