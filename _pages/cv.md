@@ -20,9 +20,9 @@ Work experience
 
 * Autumn 2022 - Autumn 2026: Doctoral Student
   * European Bioinformatics Institute (EMBL-EBI), Hinxton, UK
-  * Generating context-specific data-driven rule-based executable models to identify functional units responsible for disease progression and phenotype induction
+  * Context-specific data-driven cell signalling models to identify functional units responsible for disease progression and phenotype induction
   * Supervisor: Evangelia Petsalaki
-  * Thesis Advisory Committee: Evangelia Petsalaki, Maria Zimermann (EMBL), Maria Marti Solano (Cambridge University), Ursula Kummer (BioQuant,Heidelberg University) & Rahuman Sheriff (EMBL-EBI)
+  * Thesis Advisory Committee: Evangelia Petsalaki (EMBL-EBI), John Lees (EMBL-EBI), Maria Zimermann (EMBL), Maria Marti Solano (Cambridge University), Ursula Kummer (BioQuant,Heidelberg University) & Rahuman Sheriff (EMBL-EBI)
 
 * Summer 2022 - Autumn 2022: Research Assistant
   * Stockholm University / SciLifeLab, Stockholm, Sweden
@@ -57,6 +57,7 @@ Work experience
 Volunteer Experience
 ======
 * 2023: Organizer of the 25. EMBL International PhD Symposium (Co-Head Finance Team)
+* since 2023: Predoc Representative, EMBL's European Bioinformatics Institute, Hinxton, UK
 * since 2023: PreLighter, active contributor to the preLight program hosted by The Company of Biologists
 * since 2017: Scientific Tutor at Heidelberger Life Science Lab, German Cancer Research Cancer, Heidelberg, Germany
   * since 2021: Organizer working group "Ludology Meets Informatics"

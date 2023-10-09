@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  academic_service:
+    output: true
+    permalink: /:collection/:path/
   prelights:
     output: true
     permalink: /:collection/:path/
