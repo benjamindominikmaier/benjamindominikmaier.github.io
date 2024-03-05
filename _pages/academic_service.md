@@ -11,7 +11,7 @@ author_profile: true
 * 2021-2022: Spokesperson of the German Academic Scholarship Foundation for Stockholm & Uppsala, Sweden
 * 2020-2022: Student Representative and Student Union Council Member at Medicinska Föreningen, Karolinska Institute, Solna, Sweden
 
-<h2>Scientific Event Organisation</h2>
+<h2>Scientific Event Organisation/Public Engagement</h2>
 
 * since 2023: PreLighter, active contributor to the preLight program hosted by The Company of Biologists
 * 2023: Co-Head Finance Team, 25th EMBL International PhD Symposium, Heidelberg, Germany
@@ -21,5 +21,6 @@ author_profile: true
 <h2>Reviewer for journals (number of manuscripts):</h2>
 
 * Molecular Systems Biology (1 as junior reviewer)
+* Nature Communication (1)
 
 <h2>Reviewer for conferences (number of manuscripts):</h2>

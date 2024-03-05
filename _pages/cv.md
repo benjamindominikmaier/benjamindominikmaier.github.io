@@ -59,8 +59,8 @@ Volunteer Experience
 * 2023: Organizer of the 25. EMBL International PhD Symposium (Co-Head Finance Team)
 * since 2023: Predoc Representative, EMBL's European Bioinformatics Institute, Hinxton, UK
 * since 2023: PreLighter, active contributor to the preLight program hosted by The Company of Biologists
-* since 2017: Scientific Tutor at Heidelberger Life Science Lab, German Cancer Research Cancer, Heidelberg, Germany
-  * since 2021: Organizer working group "Ludology Meets Informatics"
+* 2017-2023: Scientific Tutor at Heidelberger Life Science Lab, German Cancer Research Cancer, Heidelberg, Germany
+  * 2021-2023: Organizer working group "Ludology Meets Informatics"
   * 2021: Organizer of a two-day workshop on computational and mathematical analysis and modeling of biological systems (April 2021)
   * 2020-2021: Organizer working group "Ludology"
   * 2017-2021: Organizer working group "Politics and Law"

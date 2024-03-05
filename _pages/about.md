@@ -21,7 +21,7 @@ Python (advanced), R (advanced), C++ (intermediate), Julia (beginner), Matlab (b
 COPASI (advanced), COBRApy (intermediate), VCell (intermediate), NFsim (intermediate), Kappa (beginner)
 
 #### Other Frameworks ####
-Containerisation (Singularity & Docker), workflow management systems (Nextflow & SnakeMake), scripting (Shell/Bash, LaTex), version control systems (GitHub & GitLab), high performance computing
+Containerisation (Singularity & Docker), workflow management systems (Nextflow & SnakeMake), scripting (Shell/Bash, LaTex), version control systems (GitHub & GitLab), high performance computing (Codon & SLURM)
 
 #### Skills ####
 Mathematical Mechanistic Modeling (Rule-based, ODE-based, logical | Whole-Cell, Genome-Scale, Detailed | Metabolic, Signalling, Population), Machine Learning, Genetic Algorithms, Network Analysis, Data Analysis, Statistical Modeling and Algorithms, Sequence Analysis, Seeding Algorithms
@@ -32,6 +32,9 @@ German (C2), English (C2), Swedish (B2), French (A2), Spanish (A2)
 
 News
 ======
+
+#### 2024 ####
+- ♦️ February: Invited by the Company of Biologist to attend the 9th Researcher to Reader Conference in London, UK as PreLight representative and represent early career researchers in the Workshop: Publishers and ECRs Working Together.
 
 #### 2023 ####
 - 🌱 May: [Paper](https://doi.org/10.1101/gr.277645.123) out in Genome Research showing that entropy predicts fuzzy-seed sensitivity.
