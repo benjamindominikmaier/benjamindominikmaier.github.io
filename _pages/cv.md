@@ -72,6 +72,8 @@ Volunteer Experience
 
 Publications (Selection)
 ======
+* <b>Maier</b> et al. CHARLIE: A Web server for Context and pHenotype Aware ReguLatory sIgnatures Extraction. in prep.
+* <b>Maier</b>, Petursson, Lussana et al. Data-driven extraction of human kinase-substrate relationships from omics datasets. <em>biorXiv</em>, 2024.
 * <b>Maier</b> and Sahlin. Entropy predicts sensitivity of pseudo-random seeds. <em>GenomeResearch</em>, 2023.
 * <b>Maier</b> & Aguilera et al. Stochastic dynamics of Type-I interferon responses. <em>PLOS Comp Bio</em>, 2022.
   

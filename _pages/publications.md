@@ -13,6 +13,8 @@ author_profile: true
 
 <p><b>Maier</b>, Aguilera et al. Stochastic dynamics of Type-I interferon responses. <em>PLOS Comp Bio</em>, 2022. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010623">[Link]</a> <div class='altmetric-embed' data-doi="10.1371/journal.pcbi.1010623"></div></p>
 
+<p><b>Maier</b>, Petursson, Lussana et al. Data-driven extraction of human kinase-substrate relationships from omics datasets. <em>bioRxiv</em>, 2024. <a href="https://www.biorxiv.org/content/10.1101/2022.01.15.476449">[Link]</a> <div class='altmetric-embed' data-doi="10.1101/2022.01.15.476449"></div></p>
+
 
 <h2>All publications</h2>
 

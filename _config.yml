@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Benjamin+D+Maier"
   googlescholar    : "https://scholar.google.de/citations?hl=de&user=fhOFpjUAAAAJ"
   email            : "bmaier [at] ebi.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Benjamin-Maier-17" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :

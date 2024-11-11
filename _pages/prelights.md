@@ -13,7 +13,19 @@ preLights is the preprint highlights service run by the biological community and
 
 #### 2024 ####
 
+<p>Fleerackers, A., et al. From impact metrics and open science to communicating research: Journalists’ awareness of academic controversies. <em>bioRxiv</em>, 2024. <a href="https://doi.org/10.1101/2024.09.03.609638">[Preprint]</a> <a href="https://prelights.biologists.com/profiles/bdmaier/">[PreLight]</a>
+
+<p>Ahlmann-Eltze, C., et al. Deep learning-based predictions of gene perturbation effects do not yet outperform simple linear methods. <em>bioRxiv</em>, 2024. <a href="https://doi.org/10.1101/2024.09.16.613342">[Preprint]</a> <a href="https://prelights.biologists.com/highlights/deep-learning-based-predictions-of-gene-perturbation-effects-do-not-yet-outperform-simple-linear-methods/">[PreLight]</a>
+
+<p>Hardwicke, T, et al. Finding the right words to evaluate research: An empirical appraisal of eLife’s assessment vocabulary. <em>bioRxiv</em>, 2024. <a href="https://doi.org/10.1101/2024.04.30.591844">[Preprint]</a> <a href="https://prelights.biologists.com/highlights/finding-the-right-words-to-evaluate-research-an-empirical-appraisal-of-elifes-assessment-vocabulary/">[PreLight]</a>
+
+<p>Koester, T, et al. Expressive modeling and fast simulation for dynamic compartments. <em>bioRxiv</em>, 2024. <a href="https://www.biorxiv.org/content/10.1101/2024.04.02.587672v1">[Preprint]</a> <a href="https://prelights.biologists.com/highlights/expressive-modeling-and-fast-simulation-for-dynamic-compartments-v2/">[PreLight]</a>
+
+<p>Jia, C & Grima, R. Holimap: an accurate and efficient method for solving stochastic gene network dynamics. <em>bioRxiv</em>, 2024. <a href="Holimap: an accurate and efficient method for solving stochastic gene network dynamics">[Paper]</a> <a href="https://prelights.biologists.com/highlights/holimap-an-accurate-and-efficient-method-for-solving-stochastic-gene-network-dynamics/">[PreLight]</a>
+
 <p>Iva Veseli, Zachary S. Cooper, Michelle A. DeMers, et al. Digital Microbe: A Genome-Informed Data Integration Framework for Collaborative Research on Emerging Model Organisms. <em>bioRxiv</em>, 2024. <a href="https://www.biorxiv.org/content/10.1101/2024.01.16.575828v1">[Preprint]</a> <a href="https://prelights.biologists.com/highlights/digital-microbe-a-genome-informed-data-integration-framework-for-collaborative-research-on-emerging-model-organisms-v2/">[PreLight]</a>
+
+<br>
 
 #### 2023 ####
 

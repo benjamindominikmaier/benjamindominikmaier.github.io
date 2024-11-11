@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational biologist who enjoys exploring cell signalling through data-driven mathematical modeling. Recently graduated from the joint Master’s programme in Molecular Techniques in Life Science, I am a PhD candidate in Evangelia Petsalaki's research group (Whole Cell Signalling) at the European Bioinformatics Institute and the University of Cambridge as part of the EMBL International PhD Programme.
+I am a computational biologist who enjoys exploring cell signalling through data-driven mathematical modeling. Recently graduated from the joint Master’s programme in Molecular Techniques in Life Science, I am a PhD candidate in [Evangelia Petsalaki's research group](https://www.ebi.ac.uk/research/petsalaki/) (Whole Cell Signalling) at the European Bioinformatics Institute and the University of Cambridge as part of the [EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/).
 
 During my studies in Heidelberg and Stockholm, I specialized in systems biology by attending several classes dealing with programming languages, mathematical modeling/computational pathway simulations, and statistical methods, which provided me insight into data science and the complexity of dynamic processes in living cells. I am especially interested in understanding the dynamic interplay of systems components and how information is specifically processed and linked to cell-fate decisions despite presence of (biochemical) noise.
 
@@ -18,7 +18,7 @@ As an active member of the preLights community, I select and highlight interesti
 Python (advanced), R (advanced), C++ (intermediate), Julia (beginner), Matlab (beginner) 
 
 #### Cell Modelling and Simulation Tools ####
-COPASI (advanced), COBRApy (intermediate), VCell (intermediate), NFsim (intermediate), Kappa (beginner)
+COPASI (advanced), COBRApy (intermediate), VCell (intermediate), NFsim (intermediate), PhysiBoSS/MaBoSS/PhysiCell (intermediate), Kappa (beginner)
 
 #### Other Frameworks ####
 Containerisation (Singularity & Docker), workflow management systems (Nextflow & SnakeMake), scripting (Shell/Bash, LaTex), version control systems (GitHub & GitLab), high performance computing (Codon & SLURM)
@@ -34,9 +34,13 @@ News
 ======
 
 #### 2024 ####
+- 🗣️ November: Presented "SELPHI2: Data-driven extraction of human kinase-substrate relationships from omics datasets" at SymBLS.
+- 🌱 November: [Workshop Report](https://doi.org/10.1101/gr.277645.123) out in Science Editor highlighting how publishers and early-career researchers are working together and guiding initiatives.
+- 🌱 September: [Preprint](https://www.biorxiv.org/content/10.1101/2022.01.15.476449) out in bioRxiv introducing a machine learning-based model to derive a probabilistic kinase-substrate network from omics datasets and an associated [webserver](https://selphi2.com/).
 - ♦️ February: Invited by the Company of Biologist to attend the 9th Researcher to Reader Conference in London, UK as PreLight representative and represent early career researchers in the Workshop: Publishers and ECRs Working Together.
 
 #### 2023 ####
+- 🗣️ December: I was interviewed by Reinier Prosée, the Community Manager of preLights, where we discussed my journey into science, the role of preprints, and my current research interests. You can read the full interview [here](https://prelights.biologists.com/news/meet-the-prelighters-a-catch-up-with-benjamin-dominik-maier/).
 - 🌱 May: [Paper](https://doi.org/10.1101/gr.277645.123) out in Genome Research showing that entropy predicts fuzzy-seed sensitivity.
 - 🗣️ April: Presented "Entropy predicts sensitivity of pseudo-random seeds" at RECOMB
 - ♦️ March: Awarded a travel fellowship from PerMedCoE to attend the PerMedCoE summer school: from pathway modelling tools to cell-level simulations in Seva, Spain
