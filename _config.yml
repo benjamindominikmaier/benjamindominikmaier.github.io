@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "b_d_maier"
+  bluesky          : "bdmaier"
   vine             :
   weibo            :
   xing             :
@@ -191,6 +192,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  murdermystery:
     output: true
     permalink: /:collection/:path/
 
