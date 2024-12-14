@@ -98,11 +98,11 @@ Please use the graphic below to easily determine which game is ideal for your gr
 
 ### ⛰ Peril in the Peaks (4 Players) [2024] ~ 3h ### 
 The Rocky Mountains, known for their breathtaking nature and panorama, offer the perfect destination for an adventurous expedition. Five friends, reunited after years apart, decide to set out on this excursion, hoping to revive old bonds and escape the pressures of their busy lives. As they gather around the campfire, surrounded by towering pines and the haunting echoes of distant wildlife, old tensions rise and long-buried secrets begin to surface. Little do they know, this trip will turn into a deadly fight for survival.<br>
-<b>Mark your calendars for December 15th</b>
+<b>Mark your calendars for December 22nd</b>
 
 ### 🏭 Hargrove Mansion (5 Players) [2024, co-written with Bethany Grace] ~3-4h ### 
 Tonight, you will step into the shoes of the Hargrove family and their close associates as we try to solve the mysterious death of Alan Hargrove. Alan, the younger brother of Liam Hargrove, the CEO of Hargrove Industries, was found dead under suspicious circumstances. The grand dining hall is decorated in the opulent style befitting the Hargrove family's status. A large table dominates the room, set for a formal dinner. Portraits of the Hargrove ancestors adorn the walls, watching over the events with an air of solemn dignity. The air is thick with tension and unspoken accusations as you gather to solve the mystery.<br>
-<b>Mark your calendars for December 8th</b>
+<b>[[Get Script]](https://drive.google.com/drive/folders/1X-Cxtf_nKxdO6hVnecrQdarcIddAj4aS?usp=sharing)</b>
 
 ### ⌛ Deadly Countdown (5-6 Players) [2024] ~2h ###
 Imagine entering an escape room with friends, only to discover a real bomb set to explode in 90 minutes. With time running out, you must accomplish three crucial tasks: defuse the bomb, escape the room, and uncover who planted it—because not everyone might be following the same aim. Can you figure out the saboteur’s identity before time runs out?<br>
@@ -115,7 +115,7 @@ At the Deceptive Art Gala, a wealthy collector is found dead just moments after 
 ### 🏝 Treasure at Skull Island (6-11 Players) [2024] ~3-4h ### 
 
 The British Crown has summoned a meeting at <em>The Salty Parrot</em> in Port Royal to negotiate a non-attack pact with local pirates in exchange for intelligence and support against the growing Spanish threat in the Caribbean. Tension fills the tavern as Pirate Captain Blackbeard is found dead just minutes before the meeting. His sudden death casts uncertainty over the negotiations, and time is running out. Accusations fly, hidden agendas surface, and the truth behind Blackbeard's death must be uncovered to restore peace before it's too late.<br>
-<b>Mark your calendars for December 22nd</b>
+<b>Mark your calendars for December 29th</b>
 
 
 ## Overview of My Murder Mystery Games in Progress ##

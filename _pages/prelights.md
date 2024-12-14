@@ -11,7 +11,13 @@ preLights is the preprint highlights service run by the biological community and
 
 <h2>Preprints I featured as a PreLight</h2>
 
+#### 2025 ####
+
+<br>
+
 #### 2024 ####
+
+<p> Bello, J., et al. Green synthesized silver nanoparticles from Moringa: Potential for preventative treatment of SARS-CoV-2 contaminated water. <em>bioRxiv</em>, 2024. <a href="https://www.biorxiv.org/content/10.1101/2024.10.12.617998v1">[Preprint]</a> <a href="https://prelights.biologists.com/highlights/green-synthesized-silver-nanoparticles-from-moringa-potential-for-preventative-treatment-of-sars-cov-2-contaminated-water/">[PreLight]</a>
 
 <p>Fleerackers, A., et al. From impact metrics and open science to communicating research: Journalists’ awareness of academic controversies. <em>bioRxiv</em>, 2024. <a href="https://doi.org/10.1101/2024.09.03.609638">[Preprint]</a> <a href="https://prelights.biologists.com/profiles/bdmaier/">[PreLight]</a>
 
